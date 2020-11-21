@@ -3,7 +3,7 @@ Answers to commonly asked questions on AI (in Turkish)
 
 Çeşitli zamanlarda yapay zekâ, makine öğrenmesi, derin öğrenme ve veri bilimi hakkında sorular soruları bu repodan yanıtlayacağım. Herkesin faydalanması ve cevaplayabilmesi için yeni sorularınızı ilk olarak [Global AI Hub](http://community.globalaihub.com/) üzerinde bulunan [Turkish AI Hub](https://community.globalaihub.com/community-hubs/turkish-ai-hub/)'da sormanızı rica ederim. Tabii ki öncelikle [kayıt olmanız](https://community.globalaihub.com/register/) gerekiyor.
 
-Bu çalışmayı faydalı bulduysanız ve daha fazla kişiye ulaşması isterseniz hemen üstteki Star butonuna hafifçe basarak yıldız verebilirsiniz.
+Bu çalışmayı faydalı bulduysanız ve daha fazla kişiye ulaşmasını isterseniz hemen üstteki Star butonuna hafifçe basarak yıldız verebilirsiniz.
 
 ### Bu alanda uzmanlaşmak için geç mi kaldık? 
 
