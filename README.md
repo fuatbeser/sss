@@ -3,6 +3,8 @@ Answers to commonly asked questions on AI (in Turkish)
 
 Çeşitli zamanlarda yapay zekâ, makine öğrenmesi, derin öğrenme ve veri bilimi hakkında sorular soruları bu repodan yanıtlayacağım. Herkesin faydalanması ve cevaplayabilmesi için yeni sorularınızı ilk olarak [Global AI Hub](http://community.globalaihub.com/) üzerinde bulunan [Turkish AI Hub](https://community.globalaihub.com/community-hubs/turkish-ai-hub/)'da sormanızı rica ederim. Tabii ki öncelikle [kayıt olmanız](https://community.globalaihub.com/register/) gerekiyor.
 
+Bu çalışmayı faydalı bulduysanız ve daha fazla kişiye ulaşması isterseniz hemen üstteki Star butonuna hafifçe basarak yıldız verebilirsiniz.
+
 ### Bu alanda uzmanlaşmak için geç mi kaldık? 
 
 Açıkcası herhangi bir konuyu öğrenmek ve o konuda uzmanlaşmak için geç olduğunu düşünmüyorum. Neredeyse her 15 dakikada 1 adet makine öğrenmesi makalesinin yayımlandığı ([bkz](https://data-mining.philippe-fournier-viger.com/too-many-machine-learning-papers/)) günümüzde hızlı öğrenen, hızlı adapte olanlar başarıya ulaşabilir. "Ben çok biliyorum. Kendimi geliştirmeme gerek yok." diyenler maalesef geride kalacaklar. Ne yapmak istediğinize karar verdikten sonra hızlı bir şekilde öğrenme ve uygulama sürecine geçmenizi tavsiye ederim. Şimdiye dek bu konuların öneminin farkında olmadığınız için geç kalmış olabilirsiniz. Fakat önemini bildiğiniz halde öğrenmek için adım atmadan geçirdiğiniz her bir yıl artık sizin "tercihiniz" olur.
