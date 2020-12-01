@@ -1,7 +1,7 @@
 # Sık Sorulan Sorular (Frequently Asked Questions)
 Answers to commonly asked questions on AI (in Turkish)
 
-Çeşitli zamanlarda yapay zekâ, makine öğrenmesi, derin öğrenme ve veri bilimi hakkında sorular soruları bu repodan yanıtlayacağım. Herkesin faydalanması ve cevaplayabilmesi için yeni sorularınızı ilk olarak [Global AI Hub](http://community.globalaihub.com/) üzerinde bulunan [Turkish AI Hub](https://community.globalaihub.com/community-hubs/turkish-ai-hub/)'da sormanızı rica ederim. Tabii ki öncelikle [kayıt olmanız](https://community.globalaihub.com/register/) gerekiyor.
+Çeşitli zamanlarda yapay zekâ, makine öğrenmesi, derin öğrenme ve veri bilimi hakkında sorulan soruları bu repodan yanıtlayacağım. Herkesin faydalanması ve cevaplayabilmesi için yeni sorularınızı ilk olarak [Global AI Hub](http://community.globalaihub.com/) üzerinde bulunan [Turkish AI Hub](https://community.globalaihub.com/community-hubs/turkish-ai-hub/)'da sormanızı rica ederim. Tabii ki öncelikle [kayıt olmanız](https://community.globalaihub.com/register/) gerekiyor.
 
 Bu çalışmayı faydalı bulduysanız ve daha fazla kişiye ulaşmasını isterseniz hemen üstteki Star butonuna hafifçe basarak yıldız verebilirsiniz.
 
@@ -33,13 +33,13 @@ Sırasıyla aşağıdaki başlıkları öğrenmenizi tavsiye ederim:
    * En çok hangi problemler çözmek kullanılıyor?
    * Algoritmanın artısı ve eksisi nedir?
   
-Makine öğrenmesi yöntemlerinden birisi de yapay sinir ağlarıdır. Özellikle bilgisayarlı görü (computer vision), ses tanıma ve işleme (speech recognition and processing) ya da doğal dil işleme (natural language processsing) gibi alanlarda çalışmak istiyorsanız yapay sinir ağlarıyla -yani derin öğrenme- çalışmanız gerekecek. Görüntü, ses ve metinlere yapısal olmayan veriler (unstructured data) deniliyor. 
+Makine öğrenmesi yöntemlerinden birisi de yapay sinir ağlarıdır. Özellikle bilgisayarlı görü (computer vision), ses tanıma ve işleme (speech recognition and processing) ya da doğal dil işleme (natural language processing) gibi alanlarda çalışmak istiyorsanız yapay sinir ağlarıyla -yani derin öğrenme- çalışmanız gerekecek. Görüntü, ses ve metinlere yapısal olmayan veriler (unstructured data) deniliyor. 
 
 Yapısal verilerle (structured data) çalışırken ise veri bilimi, makine öğrenmesi, istatistik yöntemlerini iyice öğrenmelisiniz. Yeni başlayan birinin hangi alanda çalışacağı henüz belli olmadığı için bu konuların mümkünse hepsinde ya da çoğunda projeler geliştirmenizi tavsiye ederim.
   
 ### Reinforcement learning (pekiştirmeli öğrenme) tam olarak nedir?
 
-Günümüzde makine öğrenmesi yöntemlerinden en çok gözetimli öğrenme (supervised learning) kullanılıyor. Fakat gözetimli öğrenme çok fazla etiketli veri gerektiriyor. Bu nedenle kendi kendine karar vermekten biraz uzak. Etiketsiz verinin olmadığı gözetimsiz öğrenme (unsupervised learning) ve farklı bir çalışma şekli olan pekiştirmeli öğrenme (reinforcement learning) üzerine yapılan araştırmalar da hız kazandı. Yapay zekâ sistemlerinin kendine kendine öğrenmeyi öğrenmesi ve kararlar alabilmesi gerekiyor. Peki bunu hangi algoritma ile yapabiliriz? Pekiştirmeli öğrenme, bunu gerçekleştirebileceğ düşünülen güçlü için adaylardan birisidir. Günümüzde özellikle robotik ve oyunlar kullanılmaya başlandı. 
+Günümüzde makine öğrenmesi yöntemlerinden en çok gözetimli öğrenme (supervised learning) kullanılıyor. Fakat gözetimli öğrenme çok fazla etiketli veri gerektiriyor. Bu nedenle kendi kendine karar vermekten biraz uzak. Etiketsiz verinin olmadığı gözetimsiz öğrenme (unsupervised learning) ve farklı bir çalışma şekli olan pekiştirmeli öğrenme (reinforcement learning) üzerine yapılan araştırmalar da hız kazandı. Yapay zekâ sistemlerinin kendi kendine öğrenmeyi öğrenmesi ve kararlar alabilmesi gerekiyor. Peki bunu hangi algoritma ile yapabiliriz? Pekiştirmeli öğrenme, bunu gerçekleştirebileceği düşünülen güçlü adaylardan birisidir. Günümüzde özellikle robotik ve oyun alanlarında kullanılmaya başlandı.
 
 Pekiştirmeli öğrenme, kendisine konulan hedefe göre hangi aksiyonların alınmasını gerektiğini kendi başına öğrenen bir makine öğrenmesi yaklaşımıdır. Bu yaklaşıma göre; başlangıç anından itibaren bir sanal ajan (agent) karşılaştığı olaylara ve çevreden aldığı tepkilere göre bir aksiyon alır. Buna karşılık da bir ödül (ya da ceza) alır. Süreç boyunca ajanın görevi en fazla ödülü alabileceği aksiyonları keşfetmektir.
 
